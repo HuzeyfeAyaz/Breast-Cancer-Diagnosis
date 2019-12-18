@@ -1,0 +1,2 @@
+# Automaticaly Diagnosis Breast Cancer Patient
+Sometimes it is really hard to define patients as having breast cancer. Thus, the goal is this project automatically diagnosing a patient as either cancer or not based on their metabolites.
